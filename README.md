@@ -4,17 +4,24 @@
 
 ## 🌐 Live Screens
 
-<p align="center">
- <img src="https://github.com/user-attachments/assets/038c6f53-3927-4aed-b713-46d4c8675c33" alt="Home Page" width="400"/>
-<img src="https://github.com/user-attachments/assets/f13d29dc-feb6-4a16-871a-53282852e5fc" alt="About Page" width="400"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/fbc4e059-0424-4abe-8bb1-14b28db34510" alt="News Cards" width="400"/>
-<img src="https://github.com/user-attachments/assets/14360cff-0d3d-45a8-8e5b-cc0c8bfd1370" alt="Footer" width="400"/>
-</p>
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/038c6f53-3927-4aed-b713-46d4c8675c33" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f13d29dc-feb6-4a16-871a-53282852e5fc" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fbc4e059-0424-4abe-8bb1-14b28db34510" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/14360cff-0d3d-45a8-8e5b-cc0c8bfd1370" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Features
 
