@@ -61,10 +61,10 @@ Developed by **Mohammad Kaif** — exploring full-stack development with JavaScr
 
 ## 🔗 Connect with Me
 
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) • [Instagram](https://instagram.com/)
+linkdin :-   https://www.linkedin.com/in/mohammad-kaif-9a0bb6284/
 
 ---
 
 ## 📄 License
 
-© 2025 NewsHub. Made with ❤️ by Kaif.
+© 2025 NewsHub. Made with  by Kaif.
